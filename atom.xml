@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://zoharsacks.com//"/>
-  <updated>2015-06-11T18:26:56.000Z</updated>
+  <updated>2015-06-21T05:07:06.000Z</updated>
   <id>http://zoharsacks.com//</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://zoharsacks.com/chicken-metrics/"/>
     <id>http://zoharsacks.com/chicken-metrics/</id>
     <published>2015-05-19T04:14:41.000Z</published>
-    <updated>2015-06-11T18:26:56.000Z</updated>
+    <updated>2015-06-21T05:07:06.000Z</updated>
     <content type="html"><![CDATA[<p><img src="/chicken-metrics/curiouschicken.jpg" alt="Curious Chicken by Ian Southwell"></p>
 <dl><dt>Chicken Metrics (n)</dt><dd>Metrics that makes annormus amount of noise, but contribute nothing to the product progress. lets see some examples.</dd></dl>
 
@@ -38,7 +38,7 @@
     <link href="http://zoharsacks.com/enterprise-software-israel-meetup/"/>
     <id>http://zoharsacks.com/enterprise-software-israel-meetup/</id>
     <published>2015-05-08T09:09:55.000Z</published>
-    <updated>2015-06-11T18:26:56.000Z</updated>
+    <updated>2015-06-21T05:06:35.000Z</updated>
     <content type="html"><![CDATA[<p><img src="/enterprise-software-israel-meetup/enterprise_logo_big.png" alt="Enterprise Software Israel Logo"></p>
 <p>The Israeli tech scene consist of several global market leaders such as <a href="http://www.amdocs.com/" target="_blank" rel="external">Amdocs</a>, <a href="http://www.checkpoint.com/" target="_blank" rel="external">Checkpoint</a>, <a href="http://www.nice.com/" target="_blank" rel="external">NICE</a> and many more, a direct derivative is a lot of Israeli enterprise software knowledge. </p>
 <p>Ther are great benefits in sharing knowledge both for the sharer and the sharee, but there where no “knowledge sharing space” and most knowladge sharing was based on personal relations so I’ve decided to scale the knowledge sharing and founded <a href="http://www.meetup.com/Enterprise-Israel/" target="_blank" rel="external">Enterprise Software Israel Meetup</a>.</p>
@@ -64,9 +64,8 @@
     <link href="http://zoharsacks.com/look-mom-i-m-blogging/"/>
     <id>http://zoharsacks.com/look-mom-i-m-blogging/</id>
     <published>2015-04-28T10:51:46.000Z</published>
-    <updated>2015-06-21T04:52:38.000Z</updated>
-    <content type="html"><![CDATA[<!-- ![usiness Baby Pointing by Paul Inkles](/look-mom-i-m-blogging/blogger.jpg) -->
-<p>It has been about 15 years since I first wanted to blog.<br>15 long years of going from “I have so much to say” to “but nobody gives a sh!t” until one day I had the luck to work for the amazing <a href="https://il.linkedin.com/in/arnonrgo" target="_blank" rel="external">Arnon Rotem-Gal-Oz</a> which <a href="http://arnon.me/" target="_blank" rel="external">blogs mainly about technology he uses</a>. I had hours of conversations with Arnon about technology, bringing value, Bigdata, software architecture and my wish to blog…</p>
+    <updated>2015-06-21T05:06:40.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/look-mom-i-m-blogging/blogger.jpg" alt="usiness Baby Pointing by Paul Inkles"><br>It has been about 15 years since I first wanted to blog.<br>15 long years of going from “I have so much to say” to “but nobody gives a sh!t” until one day I had the luck to work for the amazing <a href="https://il.linkedin.com/in/arnonrgo" target="_blank" rel="external">Arnon Rotem-Gal-Oz</a> which <a href="http://arnon.me/" target="_blank" rel="external">blogs mainly about technology he uses</a>. I had hours of conversations with Arnon about technology, bringing value, Bigdata, software architecture and my wish to blog…</p>
 <p>Arnon solved my conflicts quite easily, “if you want to blog, just blog!”, <a href="/the-plain-and-simple-solution-to-most-of-our-creativity-barriers">The Plain and Simple Solution to Most of Our Creativity Barriers</a>.<br>At this point I got into the very fun procrastination game of “selecting the blogging platform” this fullish game can kill every initiative very fast, you focus on the wrong issues and wast your creative energy on solving them…</p>
 <p>To cut a long story short - I’ve selected the easiest blogging system, customized it as little as possible and now I’m letting the content do it’s thing, if this blog will give any value to anyone I’ll have plenty of time to fiddle with it.</p>
 <p>I’ll use this blog to share my view of my topics of interest, of which I can count:</p>
@@ -83,8 +82,7 @@
 <h1 id="Look_mom,_I’m_blogging">Look mom, I’m blogging</h1><p><em>Image attribution - “Business Baby Pointing” by Paul Inkles, usage under <a href="https://www.flickr.com/photos/dumfstar/8553474140/in/album-72157632491600001/" target="_blank" rel="external">licensing and copyright data</a></em></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<!-- ![usiness Baby Pointing by Paul Inkles](/look-mom-i-m-blogging/blogger.jpg) -->
-<p>It has been about 15 years since I first wanted to b]]>
+    <![CDATA[<p><img src="/look-mom-i-m-blogging/blogger.jpg" alt="usiness Baby Pointing by Paul Inkles"><br>It has been about 15 years since I first wan]]>
     </summary>
     
   </entry>
